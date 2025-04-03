@@ -1,4 +1,4 @@
-# 려린의 깃허브
+# GitHub
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
