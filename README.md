@@ -10,7 +10,7 @@
 
 <div style="font-weight: 900; font-size: 20px; text-align: left; color: #282d33; margin-top: 15px;">About me</div>
 <ul style="list-style: none; padding-left: 20px; margin-top: 8px; line-height: 1.6; color: #282d33;">
-    <li>2021.03 ~ 2026.02 : 단국대학교 정보통계학과 졸업 예정</li>
+    <li>2021.03 ~ 2026.02 : 단국대학교 정보통계학과 졸업 </li>
     <li>2025.03 ~ 2025.08 : KB 풀스택 개발 교육 과정 수료</li>
     <li>2024.01 ~ 2024.12 : 단국대학교 정보통계학과 동아리 회장</li>
     <li>딥러닝 연구 스터디 및 다수 AI 공모전 참여</li>
