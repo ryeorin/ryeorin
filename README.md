@@ -27,7 +27,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ryeorin&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" style="margin-top:20px;" /> 
 
-<img src="https://skillicons.dev/icons?i=react,python,r,vscode,docker,html,css,javascript,vue,tailwind,spring,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,python,vscode,docker,html,css,javascript,vue,tailwind,spring,figma&perline=6" />
 
 </a> 
 </div> 
