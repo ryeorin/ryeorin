@@ -1,30 +1,38 @@
 
-<div style="text-align: left;">
+<div style="text-align: left;"> 
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> KIM RYEORIN </h2>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> KIM RYEORIN </h2> 
 
-<div style="font-weight: 900; font-size: 20px; text-align: left; color: #282d33;">Contact me</div>
-<ul style="list-style: none; padding-left: 20px; margin-top: 8px; line-height: 1.6; color: #282d33;">
-    <li>Email : <a href="mailto:flsk2815@gmail.com"  style="text-decoration: underline; color: #282d33;">flsk2815@gmail.com</a>  </li>
-</ul>
+<div style="font-weight: 900; font-size: 20px; text-align: left; color: #282d33;">Contact me</div> 
+<ul style="list-style: none; padding-left: 20px; margin-top: 8px; line-height: 1.6; color: #282d33;"> 
+    <li>Email : <a href="mailto:flsk2815@gmail.com" style="text-decoration: underline; color: #282d33;">flsk2815@gmail.com</a></li> 
+</ul> 
 
-<div style="font-weight: 900; font-size: 20px; text-align: left; color: #282d33; margin-top: 15px;">About me</div>
-<ul style="list-style: none; padding-left: 20px; margin-top: 8px; line-height: 1.6; color: #282d33;">
-    <li>2021.03 ~ 2026.02 : 단국대학교 정보통계학과 졸업 </li>
-    <li>2025.03 ~ 2025.08 : KB 풀스택 개발 교육 과정 수료</li>
-    <li>2024.01 ~ 2024.12 : 단국대학교 정보통계학과 동아리 회장</li>
-    <li>딥러닝 연구 스터디 및 다수 AI 공모전 참여</li>
-</ul>
+<div style="font-weight: 900; font-size: 20px; text-align: left; color: #282d33; margin-top: 15px;">About me</div> 
+<ul style="list-style: none; padding-left: 20px; margin-top: 8px; line-height: 1.6; color: #282d33;"> 
+    <li>2021.03 ~ 2026.02 : 단국대학교 정보통계학과 졸업 </li> 
+    <li>2025.03 ~ 2025.08 : KB 풀스택 개발 교육 과정 수료</li> 
+    <li>2024.01 ~ 2024.12 : 단국대학교 정보통계학과 동아리 회장</li> 
+    <li>딥러닝 연구 스터디 및 다수 AI 공모전 참여</li> 
+</ul> 
 
+</div> 
 
-</div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> <div style="text-align: left;"> 
-    <a href="https://skillicons.dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=ryeorin&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" style="margin-top:20px;" />
-<img src="https://skillicons.dev/icons?i=python,r,vscode,docker,html,css,javascript,vue,tailwind,spring,figma" /></a>
-    </div> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects</h2>
+<div style="text-align: left;"> 
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> 
+
+<div style="text-align: left;"> 
+<a href="https://skillicons.dev"> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=ryeorin&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" style="margin-top:20px;" /> 
+
+<img src="https://skillicons.dev/icons?i=react,python,r,vscode,docker,html,css,javascript,vue,tailwind,spring,figma&perline=6" />
+
+</a> 
+</div> 
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects</h2>
    
 | 프로젝트                   | 프로젝트 설명                          | 기간               | 주관처                 | 역할             | 참고                         |
 | ------------------------------------- | ------------------------------------- | ------------------ | ------------------ | ---------------- | ---------------------------- |
